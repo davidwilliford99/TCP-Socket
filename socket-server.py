@@ -42,7 +42,7 @@ while True:
     print("Sum of both numbers: " + str(number_sum))
     print("\n")
 
-    
+    # 
     server_message = str(server_number) + " " + client_name
 
     # send server message back to client 
