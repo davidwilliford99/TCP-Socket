@@ -7,9 +7,12 @@ The client sends a message, then the server receives and manipulates the data. M
 First run socket-server.py. Once you see "Server is ready to receive", then run socket-client.py (while server remains running for the entire time). Enter an integer from 0-100. This integer is then sent to the server, where it randomly generates an integer, and adds it's own integer to the one you sepcified.
 
 ## Screenshots:
+Server file is ran and ready to recieve 
 ![image info](./assets/images/ss1.png)
-![image info](./assets/images/ss1.png)
-![image info](./assets/images/ss1.png)
+Client file is ran and inquires user input
+![image info](./assets/images/ss2.png)
+Client message is received by server and data is manipulated and printed to console
+![image info](./assets/images/ss3.png)
 
 
 ### Author: David Williford
